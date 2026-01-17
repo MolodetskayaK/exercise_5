@@ -1,0 +1,14 @@
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\bin\Debug\net8.0\exercise_5.exe
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\bin\Debug\net8.0\exercise_5.deps.json
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\bin\Debug\net8.0\exercise_5.runtimeconfig.json
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\bin\Debug\net8.0\exercise_5.dll
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\bin\Debug\net8.0\exercise_5.pdb
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.AssemblyInfoInputs.cache
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.AssemblyInfo.cs
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.csproj.CoreCompileInputs.cache
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.dll
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\refint\exercise_5.dll
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.pdb
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\exercise_5.genruntimeconfig.cache
+C:\Users\Cocosik\Documents\exercise_5\exercise_5\obj\Debug\net8.0\ref\exercise_5.dll
